@@ -169,7 +169,7 @@ datablock ItemData(taserItem)
    emap = true;
 
    //gui stuff
-   uiName = "Taser";
+   uiName = "AP - Taser";
    //iconName = "./icons/icon_Pistol";
    doColorShift = false;
    colorShiftColor = "0.25 0.25 0.25 1.000";
